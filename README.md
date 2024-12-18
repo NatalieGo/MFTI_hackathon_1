@@ -16,8 +16,8 @@
 - dataset_analysis_ru.ipynb (на русском языке)
 
 ### Полученные датасеты после обработки:
--dataset_clean_translated.csv
--dataset_clean_ru.zip
+- dataset_clean_translated.csv
+- dataset_clean_ru.zip
 
 ### Блокнот обучения модели на полученных данных:
 - hackaton.ipynb
